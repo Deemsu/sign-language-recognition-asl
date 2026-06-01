@@ -26,7 +26,7 @@
 
 |MediaPipe Landmarks + Word Builder|Full Alphabet + “BAD” Output|
 |----------------------------------|----------------------------|
-|![demo2](assets/demo2.jpg)        |![demo1](assets/demo1.jpg)  |
+|![demo1](demo1.jpg)        |![demo2](demo2.jpg)  |
 
 
 > Live demo: sign **B** detected at **100% confidence** with MediaPipe landmarks overlaid. Word Builder successfully composed **“BAD”** by signing B → A → D in sequence.
