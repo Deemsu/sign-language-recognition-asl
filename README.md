@@ -31,7 +31,7 @@
 
 > Live demo: sign **B** detected at **100% confidence** with MediaPipe landmarks overlaid. Word Builder successfully composed **“BAD”** by signing B → A → D in sequence.
 
-📄 **[Read the Full Academic Report (PDF)](Report/SignLanguageReportkfu2026.pdf)**
+📄 **[Read the Full Academic Report (PDF)](SignLanguageReportkfu2026.pdf)**
 
 -----
 
